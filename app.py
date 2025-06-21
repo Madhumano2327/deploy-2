@@ -1,3 +1,3 @@
 import streamlit as st
-#tittle
-st.tittle("hello")
+#title
+st.title("hello")
